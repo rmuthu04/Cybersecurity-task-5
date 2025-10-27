@@ -1,8 +1,7 @@
 # Cybersecurity-task-5
 
 # Task 5 – Wireshark Network Traffic Analysis Report
-**Name:** Muthukumaran R  
-**Date:** (update date if required)  
+**Name:** Muthukumaran R    
 **File Included:** `capture.pcap`
 
 ---
