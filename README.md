@@ -36,12 +36,6 @@ At least four different network protocols were observed:
 3. **HTTP** – Plain text traffic (if any unencrypted sites were opened)  
 4. **ICMP** – Echo request/reply from `ping` command
 
-**Screenshot placeholders:**  
-- *(Insert DNS filter screenshot here)*  
-- *(Insert TLS filter screenshot here)*  
-- *(Insert HTTP filter screenshot here)*  
-- *(Insert ICMP filter screenshot here)*  
-
 ---
 
 ## 4) Sample Packet Observations
